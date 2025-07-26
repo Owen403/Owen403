@@ -18,11 +18,9 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p>
+<p align="left">
   I'm a passionate <strong>Java Web Developer</strong> focused on building modern and efficient server-side applications. With experience in developing complex systems, I am always seeking new challenges to enhance my skills and create valuable products.
   <br><br>
   <div align="center">
@@ -54,11 +52,11 @@
   </p>
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎨 Featured Project
 
-#### 🎬 **[Cinebee-BackEnd](https://github.com/Olin2004/Cinebee-BackEnd)**
+#### 🎬 **[E-commerce](https://github.com/Olin2004/Cinebee-BackEnd)**
 
 [![Cinebee-BackEnd Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Olin2004&repo=Cinebee-BackEnd&theme=radical)](https://github.com/Olin2004/Cinebee-BackEnd)
 
@@ -74,7 +72,7 @@ _A comprehensive backend system for a movie ticket booking application, built wi
 -    **Performance Optimization**: Leverages Redis for caching frequently accessed data (e.g., trending movies, active banners) and for temporary storage of OTPs and CAPTCHA codes.
 -    **Enhanced Security**: Employs image-based Kaptcha for CAPTCHA verification to prevent automated abuse.
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats & Trophies
 
@@ -82,18 +80,16 @@ _A comprehensive backend system for a movie ticket booking application, built wi
   <img src="https://github-readme-stats.vercel.app/api?username=Olin2004&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olin2004&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Olin2004&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake.gif" alt="Contribution Snake"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olin2004&theme=radical&hide_border=true&area=true" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
