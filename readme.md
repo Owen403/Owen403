@@ -56,9 +56,24 @@
 
 ## 🎨 Featured Project
 
-#### 🎬 **[E-commerce](https://github.com/Olin2004/Cinebee-BackEnd)**
-
-[![Cinebee-BackEnd Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Olin2004&repo=Cinebee-BackEnd&theme=radical)](https://github.com/Olin2004/Cinebee-BackEnd)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Olin2004/Cinebee-BackEnd">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Olin2004&repo=Cinebee-BackEnd&theme=radical" alt="Cinebee-BackEnd Repo Card"/>
+      </a>
+    </td>
+    <td>
+      <strong>Technologies Used:</strong><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+  </tr>
+</table>
 
 _A comprehensive backend system for a movie ticket booking application, built with Spring Boot._
 
