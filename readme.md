@@ -48,7 +48,7 @@
   </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🎨 Featured Project
 
@@ -68,7 +68,7 @@ _A comprehensive backend system for a movie ticket booking application, built wi
 -    **Performance Optimization**: Leverages Redis for caching frequently accessed data (e.g., trending movies, active banners) and for temporary storage of OTPs and CAPTCHA codes.
 -    **Enhanced Security**: Employs image-based Kaptcha for CAPTCHA verification to prevent automated abuse.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📊 GitHub Stats & Trophies
 
@@ -80,10 +80,13 @@ _A comprehensive backend system for a movie ticket booking application, built wi
   <img src="https://github-profile-trophy.vercel.app/?username=Olin2004&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olin2004&theme=radical" alt="GitHub Streak"/>
+</div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake.gif" alt="Contribution Snake"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <div align="center">
 
