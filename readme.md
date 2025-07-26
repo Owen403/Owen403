@@ -83,6 +83,9 @@ _A comprehensive backend system for a movie ticket booking application, built wi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olin2004&theme=radical" alt="GitHub Streak"/>
 </div>
 <div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api/oliver?username=Olin2004&theme=radical" alt="GitHub 3D Contributions"/>
+</div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake.gif" alt="Contribution Snake"/>
 </div>
 
