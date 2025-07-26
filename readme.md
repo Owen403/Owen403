@@ -32,13 +32,20 @@
 
 <div align="center">
   <p><strong>Backend Development:</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis&theme=dark" />
-  </a>
+  <p>
+    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+    <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+    <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+    <a href="https://redis.io"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
+  </p>
   <p><strong>Tools & Platforms:</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,cloudinary&theme=dark" />
-  </a>
+  <p>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+    <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
+    <a href="https://cloudinary.com/"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" alt="Cloudinary"/></a>
+  </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -51,15 +58,15 @@
 
 _A comprehensive backend system for a movie ticket booking application, built with Spring Boot._
 
--   **Secure User Authentication**: JWT-based login, registration, and session management. Includes Google OAuth2 integration, password reset via OTP, and token refresh capabilities.
--   **Role-Based Access Control (RBAC)**: Differentiated permissions for `USER` and `ADMIN` roles using Spring Security.
--   **Complete Movie & Showtime Management**: Full CRUD operations for movies, theaters, rooms, and showtimes.
--   **End-to-End Booking Flow**: A seamless process for users to select seats, create a booking, and receive a confirmation.
--   **Payment Gateway Integration**: Integrated with MoMo for online payments, including handling of IPN (Instant Payment Notification) and return URLs.
--   **Automated Email & QR Code Generation**: Sends HTML-based ticket confirmation emails (using Thymeleaf) with a QR Code (using ZXing) for each ticket.
--   **Cloud Media Storage**: Utilizes Cloudinary for efficient storage and delivery of media assets like movie posters and banners.
--   **Performance Optimization**: Leverages Redis for caching frequently accessed data (e.g., trending movies, active banners) and for temporary storage of OTPs and CAPTCHA codes.
--   **Enhanced Security**: Employs image-based Kaptcha for CAPTCHA verification to prevent automated abuse.
+-    **Secure User Authentication**: JWT-based login, registration, and session management. Includes Google OAuth2 integration, password reset via OTP, and token refresh capabilities.
+-    **Role-Based Access Control (RBAC)**: Differentiated permissions for `USER` and `ADMIN` roles using Spring Security.
+-    **Complete Movie & Showtime Management**: Full CRUD operations for movies, theaters, rooms, and showtimes.
+-    **End-to-End Booking Flow**: A seamless process for users to select seats, create a booking, and receive a confirmation.
+-    **Payment Gateway Integration**: Integrated with MoMo for online payments, including handling of IPN (Instant Payment Notification) and return URLs.
+-    **Automated Email & QR Code Generation**: Sends HTML-based ticket confirmation emails (using Thymeleaf) with a QR Code (using ZXing) for each ticket.
+-    **Cloud Media Storage**: Utilizes Cloudinary for efficient storage and delivery of media assets like movie posters and banners.
+-    **Performance Optimization**: Leverages Redis for caching frequently accessed data (e.g., trending movies, active banners) and for temporary storage of OTPs and CAPTCHA codes.
+-    **Enhanced Security**: Employs image-based Kaptcha for CAPTCHA verification to prevent automated abuse.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -73,17 +80,14 @@ _A comprehensive backend system for a movie ticket booking application, built wi
   <img src="https://github-profile-trophy.vercel.app/?username=Olin2004&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olin2004&theme=radical&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake.gif" alt="Contribution Snake"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=4000&center=true&vCenter=true&width=450&lines=Code+is+poetry+written+in+logic" alt="Typing SVG" /></a>
+### 🌟 "Code is poetry written in logic" 🌟
 
 **Thanks for visiting my profile!**
 
