@@ -26,11 +26,13 @@ jobs:
                       outputs: |
                            dist/github-contribution-grid-snake.gif
                            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+                 env:
+                      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+on:
      push:
           branches:
                - main
-                 env:
-                      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
                - name: Push changes
                  uses: crazy-max/ghaction-github-pages@v3.1.0
