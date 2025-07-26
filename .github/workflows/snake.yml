@@ -26,6 +26,9 @@ jobs:
                       outputs: |
                            dist/github-contribution-grid-snake.gif
                            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+     push:
+          branches:
+               - main
                  env:
                       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
