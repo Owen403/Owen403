@@ -83,16 +83,19 @@
 
 > _A comprehensive backend system for a movie ticket booking application, built with Spring Boot._
 >
-> ### Key Features:
-> - 🔐 **Secure User Authentication**: JWT-based login, registration, and session management with Google OAuth2 integration.
-> - 👥 **Role-Based Access Control (RBAC)**: Differentiated permissions for `USER` and `ADMIN` roles.
-> - 🎬 **Complete Movie & Showtime Management**: Full CRUD operations for all movie-related entities.
-> - 🎟️ **End-to-End Booking Flow**: Seamless seat selection, booking, and confirmation process.
-> - 💳 **Payment Gateway Integration**: Integrated with MoMo, handling IPN and return URLs.
-> - 📧 **Automated Email & QR Code Generation**: Sends HTML ticket confirmation emails with QR codes.
-> - ☁️ **Cloud Media Storage**: Utilizes Cloudinary for efficient storage of media assets.
-> - ⚡ **Performance Optimization**: Leverages Redis for caching and temporary data storage.
-> - ��️ **Enhanced Security**: Employs image-based Kaptcha to prevent automated abuse.
+<details>
+  <summary><b>Key Features</b></summary>
+  
+  - 🔐 **Secure User Authentication**: JWT-based login, registration, and session management with Google OAuth2 integration.
+  - 👥 **Role-Based Access Control (RBAC)**: Differentiated permissions for `USER` and `ADMIN` roles.
+  - 🎬 **Complete Movie & Showtime Management**: Full CRUD operations for all movie-related entities.
+  - 🎟️ **End-to-End Booking Flow**: Seamless seat selection, booking, and confirmation process.
+  - 💳 **Payment Gateway Integration**: Integrated with MoMo, handling IPN and return URLs.
+  - 📧 **Automated Email & QR Code Generation**: Sends HTML ticket confirmation emails with QR codes.
+  - ☁️ **Cloud Media Storage**: Utilizes Cloudinary for efficient storage of media assets.
+  - ⚡ **Performance Optimization**: Leverages Redis for caching and temporary data storage.
+  - ��️ **Enhanced Security**: Employs image-based Kaptcha to prevent automated abuse.
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
