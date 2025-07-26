@@ -18,9 +18,11 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
+</div>
 
-<p align="left">
+<p>
   I'm a passionate <strong>Java Web Developer</strong> focused on building modern and efficient server-side applications. With experience in developing complex systems, I am always seeking new challenges to enhance my skills and create valuable products.
   <br><br>
   <div align="center">
@@ -52,7 +54,7 @@
   </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🎨 Featured Project
 
@@ -72,7 +74,7 @@ _A comprehensive backend system for a movie ticket booking application, built wi
 -    **Performance Optimization**: Leverages Redis for caching frequently accessed data (e.g., trending movies, active banners) and for temporary storage of OTPs and CAPTCHA codes.
 -    **Enhanced Security**: Employs image-based Kaptcha for CAPTCHA verification to prevent automated abuse.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 📊 GitHub Stats & Trophies
 
@@ -91,7 +93,7 @@ _A comprehensive backend system for a movie ticket booking application, built wi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olin2004&theme=radical&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div align="center">
 
