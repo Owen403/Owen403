@@ -40,42 +40,40 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <p><strong>Backend Development:</strong></p>
-  <p>
-    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-    <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
-    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-    <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-    <a href="https://redis.io"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
-  </p>
-  <p><strong>Tools & Platforms:</strong></p>
-  <p>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-    <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-    <a href="https://cloudinary.com/"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" alt="Cloudinary"/></a>
-  </p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<table width="100%">
+  <tr>
+    <td align="center">
+      <strong>Backend Development</strong><br>
+      <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+      <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
+      <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+      <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+      <a href="https://redis.io"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
+    </td>
+    <td align="center">
+      <strong>Tools & Platforms</strong><br>
+      <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+      <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+      <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
+      <a href="https://cloudinary.com/"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" alt="Cloudinary"/></a>
+    </td>
+  </tr>
+</table>
 
 ## 🎨 Featured Projects
 
 <details>
-  <summary>
-    <h3>🎬 E-commerce - Backend System</h3>
-  </summary>
-  
+  <summary><strong>🎬 E-commerce - Backend System</strong></summary>
+  <br>
   <table>
     <tr>
-      <td>
+      <td width="60%">
         <a href="https://github.com/Olin2004/Cinebee-BackEnd">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Olin2004&repo=Cinebee-BackEnd&theme=radical" alt="Cinebee-BackEnd Repo Card"/>
         </a>
       </td>
-      <td>
-        <strong>Technologies Used:</strong><br>
+      <td width="40%" valign="top">
+        <strong>Technologies Used:</strong><br><br>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -85,27 +83,10 @@
       </td>
     </tr>
   </table>
-
-  > _A comprehensive backend system for a movie ticket booking application, built with Spring Boot._
-  >
-  <details>
-    <summary><b>Key Features</b></summary>
-    
-    - 🔐 **Secure User Authentication**: JWT-based login, registration, and session management with Google OAuth2 integration.
-    - 👥 **Role-Based Access Control (RBAC)**: Differentiated permissions for `USER` and `ADMIN` roles.
-    - 🎬 **Complete Movie & Showtime Management**: Full CRUD operations for all movie-related entities.
-    - 🎟️ **End-to-End Booking Flow**: Seamless seat selection, booking, and confirmation process.
-    - 💳 **Payment Gateway Integration**: Integrated with MoMo, handling IPN and return URLs.
-    - 📧 **Automated Email & QR Code Generation**: Sends HTML ticket confirmation emails with QR codes.
-    - ☁️ **Cloud Media Storage**: Utilizes Cloudinary for efficient storage of media assets.
-    - ⚡ **Performance Optimization**: Leverages Redis for caching and temporary data storage.
-    - ��️ **Enhanced Security**: Employs image-based Kaptcha to prevent automated abuse.
-  </details>
 </details>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- To add a new project, copy the <details> block above and paste it below this line. -->
 
 ## 📊 GitHub Stats & Trophies
 
@@ -121,8 +102,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
