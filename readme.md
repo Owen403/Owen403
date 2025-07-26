@@ -50,6 +50,16 @@
 
 ---
 
+## 🚀 Currently Learning & Exploring
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=4000&center=true&vCenter=true&width=450&lines=Exploring+Microservices;Learning+GoLang;Deep+diving+into+Cloud+Native" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
 ## 🎨 Featured Project
 
 #### 🎬 **[Cinebee-BackEnd](https://github.com/Olin2004/Cinebee-BackEnd)**
@@ -76,7 +86,6 @@ _A comprehensive backend system for a movie ticket booking application, built wi
   <img src="https://github-readme-stats.vercel.app/api?username=Olin2004&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olin2004&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
-
 <div align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=Olin2004&theme=radical" alt="GitHub 3D Contributions"/>
 </div>
@@ -85,6 +94,10 @@ _A comprehensive backend system for a movie ticket booking application, built wi
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day"/>
+</div>
 
 <div align="center">
 
