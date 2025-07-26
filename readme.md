@@ -75,17 +75,18 @@
   </tr>
 </table>
 
-_A comprehensive backend system for a movie ticket booking application, built with Spring Boot._
-
--    **Secure User Authentication**: JWT-based login, registration, and session management. Includes Google OAuth2 integration, password reset via OTP, and token refresh capabilities.
--    **Role-Based Access Control (RBAC)**: Differentiated permissions for `USER` and `ADMIN` roles using Spring Security.
--    **Complete Movie & Showtime Management**: Full CRUD operations for movies, theaters, rooms, and showtimes.
--    **End-to-End Booking Flow**: A seamless process for users to select seats, create a booking, and receive a confirmation.
--    **Payment Gateway Integration**: Integrated with MoMo for online payments, including handling of IPN (Instant Payment Notification) and return URLs.
--    **Automated Email & QR Code Generation**: Sends HTML-based ticket confirmation emails (using Thymeleaf) with a QR Code (using ZXing) for each ticket.
--    **Cloud Media Storage**: Utilizes Cloudinary for efficient storage and delivery of media assets like movie posters and banners.
--    **Performance Optimization**: Leverages Redis for caching frequently accessed data (e.g., trending movies, active banners) and for temporary storage of OTPs and CAPTCHA codes.
--    **Enhanced Security**: Employs image-based Kaptcha for CAPTCHA verification to prevent automated abuse.
+> _A comprehensive backend system for a movie ticket booking application, built with Spring Boot._
+>
+> ### Key Features:
+> - 🔐 **Secure User Authentication**: JWT-based login, registration, and session management with Google OAuth2 integration.
+> - 👥 **Role-Based Access Control (RBAC)**: Differentiated permissions for `USER` and `ADMIN` roles.
+> - 🎬 **Complete Movie & Showtime Management**: Full CRUD operations for all movie-related entities.
+> - 🎟️ **End-to-End Booking Flow**: Seamless seat selection, booking, and confirmation process.
+> - 💳 **Payment Gateway Integration**: Integrated with MoMo, handling IPN and return URLs.
+> - 📧 **Automated Email & QR Code Generation**: Sends HTML ticket confirmation emails with QR codes.
+> - ☁️ **Cloud Media Storage**: Utilizes Cloudinary for efficient storage of media assets.
+> - ⚡ **Performance Optimization**: Leverages Redis for caching and temporary data storage.
+> - ��️ **Enhanced Security**: Employs image-based Kaptcha to prevent automated abuse.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
