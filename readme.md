@@ -27,7 +27,7 @@
         <a href="https://www.linkedin.com/in/mark2004dev/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
-        <a href="https://github.com/Olin2004">
+        <a href="https://github.com/Owen200-debug">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </div>
@@ -68,8 +68,8 @@
   <table>
     <tr>
       <td width="60%">
-        <a href="https://github.com/Olin2004/Cinebee-BackEnd">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Olin2004&repo=Cinebee-BackEnd&theme=radical" alt="Cinebee-BackEnd Repo Card"/>
+        <a href="https://github.com/Owen200-debug/Cinebee-BackEnd">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Owen200-debug&repo=Cinebee-BackEnd&theme=radical" alt="Cinebee-BackEnd Repo Card"/>
         </a>
       </td>
       <td width="40%" valign="top">
@@ -91,15 +91,15 @@
 ## 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olin2004&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olin2004&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Owen200-debug&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owen200-debug&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Olin2004/Olin2004/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Owen200-debug/Owen200-debug/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Owen200-debug/Owen200-debug/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Owen200-debug/Owen200-debug/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -109,6 +109,6 @@
 
 **Thanks for visiting my profile!**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Olin2004.Olin2004)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Owen200-debug.Owen200-debug)
 
 </div>
